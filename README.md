@@ -8,6 +8,5 @@ The objective of this project is to examine the relationship between weekly sale
 Further, through the use of the predictive modelling approach would be used for predicting the sales of next 12 weeks.
 Within this dataset , there are historical sales data for 45 Walmart stores which are based on the store and the week . 
 Certain set of events and holidays are impacting the sales of each week. 
-The business is facing a challenge due to unforeseen 
-+ and runs out of stock some times.
+The business is facing a challenge due to unforeseen and runs out of stock some times.
 
